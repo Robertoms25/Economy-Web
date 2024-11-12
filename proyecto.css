@@ -1,0 +1,23 @@
+
+     h1{
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: goldenrod;
+       } 
+
+     p{
+          color:darkblue;
+          border:10px; border-style: style: solid;
+          
+        }
+
+     h2{   
+        color:green;
+        border:10px; border-style: style: solid;
+
+       }
+
+     h3{   
+        color:green;
+        border:10px; border-style: style: solid;
+        
+       }
